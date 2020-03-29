@@ -2,7 +2,7 @@
 
 # COMMIT:
 
-Rocketseat
+Curso Em Video - Aulas pelo Youtube
 
 # Descrição:
 
